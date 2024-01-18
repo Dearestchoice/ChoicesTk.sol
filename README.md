@@ -1,0 +1,3 @@
+# ChoicesTk.sol
+Contract address; 0xC2Eb3f5493b1d53042B0644723F637E28F979de8
+Goerli transaction hash: https://goerli.etherscan.io/tx/0x6e9ee6e945fee75eb567810f4f64cdf61cabd83cf7a6f4f4cac7e9d3e961c2da
